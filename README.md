@@ -68,16 +68,7 @@
 <br>
 
 <div align="center">
- <samp><h1>☕ Support My Work</h1></samp>
- <a href="https://www.buymeacoffee.com/muhammadzili">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=muhammadzili&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
- </a>
-</div>
-
-<br>
-
-<div align="center">
  <samp>
-  ⚡ “Turning ideas into digital reality — one line of code at a time.”
+  💡 “I don't just build code; I build solutions.”
  </samp>
 </div>
